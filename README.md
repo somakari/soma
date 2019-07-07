@@ -1,2 +1,2 @@
 # soma
-to-do list application
+to-do list application inspired by Max Sandelin
